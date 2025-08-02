@@ -98,20 +98,12 @@ portfolio/
 - **Mobile Responsive**: Works perfectly on all devices
 - **Accessibility**: Keyboard navigation and screen reader friendly
 
-## 🎯 Target Audience
-
-This portfolio is specifically designed to impress:
-- **Tech Recruiters**: Eye-catching design with clear skill presentation
-- **Hiring Managers**: Professional appearance with technical depth
-- **Development Teams**: Shows coding standards and attention to detail
-- **Startup Founders**: Demonstrates modern development skills
-
 ## 📞 Contact Information
 
-- **Email**: abhishek.bhardwaj@example.com
-- **Telegram**: @abhishekbhardwaj
-- **GitHub**: github.com/abhishekbhardwaj
-- **LinkedIn**: linkedin.com/in/abhishekbhardwaj
+- **Email**: panditabhishekbhardwaj123@gmail.com
+- **Telegram**: @Ameeyaatma
+- **GitHub**: github.com/ameyaatmaa
+- **LinkedIn**: linkedin.com/in/abhishek-bhardwaj-79187b280
 
 ## 🔧 Browser Support
 
@@ -126,5 +118,3 @@ This portfolio is specifically designed to impress:
 This portfolio template is free to use and modify for personal and commercial projects.
 
 ---
-
-**Built with ❤️ and lots of ☕ by Abhishek Bhardwaj** 
